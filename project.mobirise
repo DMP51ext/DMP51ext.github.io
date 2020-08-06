@@ -39,14 +39,15 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "gdpr": false,
-    "cookiesAlert": false
+    "cookiesAlert": false,
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
         "title": "DM Plus El Salvador",
-        "meta_descr": "Tu mejor opción en Marketing digital, hacemos crecer tu empresa y tener la mejor imagen en internet, ademas de brindarte soporte para tus clientes y mienbros dentro tu empresa, organizaciòn e institución.",
+        "meta_descr": "Tu mejor opción en Marketing digital, hacemos crecer tu empresa y tener la mejor imagen en Internet, ademas de brindarte soporte para tus clientes y miembros dentro tu empresa, organización e institución.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -646,7 +647,7 @@
     },
     "Acercadenosotros.html": {
       "settings": {
-        "meta_descr": "Tu mejor opción en Marketing digital, hacemos crecer tu empresa y tener la mejor imagen en internet, ademas de brindarte soporte para tus clientes y mienbros dentro tu empresa, organizaciòn e institución.",
+        "meta_descr": "Tu mejor opción en Marketing digital, hacemos crecer tu empresa y tener la mejor imagen en Internet, ademas de brindarte soporte para tus clientes y miembros dentro tu empresa, organización e institución.",
         "title": "Acerca de Nosotros",
         "order": 8
       },
@@ -1013,7 +1014,7 @@
     },
     "Nuestrosservicios.html": {
       "settings": {
-        "meta_descr": "Tu mejor opción en Marketing digital, hacemos crecer tu empresa y tener la mejor imagen en internet, ademas de brindarte soporte para tus clientes y mienbros dentro tu empresa, organizaciòn e institución.",
+        "meta_descr": "Tu mejor opción en Marketing digital, hacemos crecer tu empresa y tener la mejor imagen en Internet, ademas de brindarte soporte para tus clientes y miembros dentro tu empresa, organización e institución.",
         "title": "Nuestros Servicios",
         "order": 7
       },
@@ -1910,7 +1911,7 @@
     },
     "Solicitudpcsd.html": {
       "settings": {
-        "meta_descr": "Tu mejor opción en Marketing digital, hacemos crecer tu empresa y tener la mejor imagen en internet, ademas de brindarte soporte para tus clientes y mienbros dentro tu empresa, organizaciòn e institución.",
+        "meta_descr": "Tu mejor opción en Marketing digital, hacemos crecer tu empresa y tener la mejor imagen en Internet, ademas de brindarte soporte para tus clientes y miembros dentro tu empresa, organización e institución.",
         "title": "Solicitud de presentación y cotización de servicios",
         "order": 6
       },
@@ -2292,7 +2293,7 @@
     },
     "Únete.html": {
       "settings": {
-        "meta_descr": "Tu mejor opción en Marketing digital, hacemos crecer tu empresa y tener la mejor imagen en internet, ademas de brindarte soporte para tus clientes y mienbros dentro tu empresa, organizaciòn e institución.",
+        "meta_descr": "Tu mejor opción en Marketing digital, hacemos crecer tu empresa y tener la mejor imagen en Internet, ademas de brindarte soporte para tus clientes y miembros dentro tu empresa, organización e institución.",
         "title": "Únete se parte del equipo",
         "order": 5
       },
@@ -2689,7 +2690,7 @@
     },
     "Contáctenos.html": {
       "settings": {
-        "meta_descr": "Tu mejor opción en Marketing digital, hacemos crecer tu empresa y tener la mejor imagen en internet, ademas de brindarte soporte para tus clientes y mienbros dentro tu empresa, organizaciòn e institución.",
+        "meta_descr": "Tu mejor opción en Marketing digital, hacemos crecer tu empresa y tener la mejor imagen en Internet, ademas de brindarte soporte para tus clientes y miembros dentro tu empresa, organización e institución.",
         "title": "Contáctenos",
         "order": 4
       },
@@ -3043,7 +3044,7 @@
     },
     "Demotiendaonline.html": {
       "settings": {
-        "meta_descr": "Tu mejor opción en Marketing digital, hacemos crecer tu empresa y tener la mejor imagen en internet, ademas de brindarte soporte para tus clientes y mienbros dentro tu empresa, organizaciòn e institución.",
+        "meta_descr": "Tu mejor opción en Marketing digital, hacemos crecer tu empresa y tener la mejor imagen en Internet, ademas de brindarte soporte para tus clientes y miembros dentro tu empresa, organización e institución.",
         "title": "DEMO Tienda ONLINE",
         "order": 1
       },
@@ -3554,7 +3555,7 @@
     },
     "Términosycondiciones.html": {
       "settings": {
-        "meta_descr": "Tu mejor opción en Marketing digital, hacemos crecer tu empresa y tener la mejor imagen en internet, ademas de brindarte soporte para tus clientes y mienbros dentro tu empresa, organizaciòn e institución.",
+        "meta_descr": "Tu mejor opción en Marketing digital, hacemos crecer tu empresa y tener la mejor imagen en Internet, ademas de brindarte soporte para tus clientes y miembros dentro tu empresa, organización e institución.",
         "title": "Términos y condiciones",
         "order": 2
       },
@@ -3863,7 +3864,7 @@
     },
     "Políticadeprivacidad.html": {
       "settings": {
-        "meta_descr": "Tu mejor opción en Marketing digital, hacemos crecer tu empresa y tener la mejor imagen en internet, ademas de brindarte soporte para tus clientes y mienbros dentro tu empresa, organizaciòn e institución.",
+        "meta_descr": "Tu mejor opción en Marketing digital, hacemos crecer tu empresa y tener la mejor imagen en Internet, ademas de brindarte soporte para tus clientes y miembros dentro tu empresa, organización e institución.",
         "title": "Política de privacidad",
         "order": 3
       },
