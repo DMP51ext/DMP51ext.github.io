@@ -575,7 +575,7 @@
           "text6": "<b>Contactos</b><br>Internacional: +1 (747) 210-0601&nbsp;<br>Contactos de servicio: +503 78632899<br><br><font color=\"#41a85f\" face=\"Montserrat, sans-serif\" style=\"font-weight: bold;\"><span style=\"font-size: 16px; letter-spacing: -1px;\">Enlaces</span></font><br><a href=\"https://mail.zoho.com/portal/DMplus \" target=\"_blank\" class=\"text-info\">Iniciar sesión.</a><br><a href=\"Solicitudpcsd.html\" class=\"text-info\">Realizar cotización</a>.<br><br><b>Soporte: &nbsp;</b>support@dmplussv.com",
           "form": {
             "title": "MESSAGE",
-            "action": "info@youmarketingsite.com",
+            "action": "info@dmplussv.com",
             "alerts": {
               "success": "Solicitud Realizada. ¡Gracias!"
             },
@@ -2112,9 +2112,9 @@
           "subtitle": "Queremos ayudarte y ser fieles aliados en el crecimiento de tu negocio u organización.",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Enviar</a>",
           "form": {
-            "action": "info@youmarketingsite.com",
+            "action": "info@dmplussv.com",
             "alerts": {
-              "success": "Gracias por escribirnos nuestro equipo se pondra en contacto contigo proximamente, Feliz Dia!!!"
+              "success": "Gracias por escribirnos nuestro equipo se pondra en contacto contigo próximamente, Feliz Dia!!!"
             },
             "fields": {
               "name": {
@@ -2509,9 +2509,9 @@
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Enviar</a>",
           "form": {
-            "action": "info@youmarketingsite.com",
+            "action": "info@dmplussv.com",
             "alerts": {
-              "success": "Gracias por Escribirnos Nuestro Equipo se pondra en contacto contigo proximamente, Feliz Dia!!!"
+              "success": "Gracias por Escribirnos Nuestro Equipo se pondra en contacto contigo próximamente, Feliz Dia!!!"
             },
             "fields": {
               "name": {
