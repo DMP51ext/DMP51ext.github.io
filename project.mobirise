@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DM Plus",
-    "currentPage": "index.html",
+    "currentPage": "Payment.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -4409,13 +4409,13 @@
           },
           "title1": "Servicios Web - DM JR",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Por favor al desplegarse el formulario de pago ingrese el monto a pagar asignado por el proveedor de servicio segun su contrato de servicio.",
+          "caption1": "<b>INDICACIONES:&nbsp;</b>Por favor al desplegarse el formulario de pago ingrese el monto a pagar asignado por el proveedor según su contrato de servicio.",
           "title2": "Community Manager - DM SENIOR",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Por favor al desplegarse el formulario de pago ingrese el monto a pagar asignado por el proveedor de servicio segun su contrato de servicio.",
+          "caption2": "<b>INDICACIONES:</b> Por favor al desplegarse el formulario de pago ingrese el monto a pagar asignado por el proveedor según su contrato de servicio.",
           "title3": "DM MASTER - Full Services",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Por favor al desplegarse el formulario de pago ingrese el monto a pagar asignado por el proveedor de servicio segun su contrato de servicio.",
+          "caption3": "<b>INDICACIONES:</b> Por favor al desplegarse el formulario de pago ingrese el monto a pagar asignado por el proveedor según su contrato de servicio.",
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
