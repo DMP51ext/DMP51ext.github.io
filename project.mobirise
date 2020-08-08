@@ -30,7 +30,7 @@
     "versionFirst": "4.12.4",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 87,
+    "uniqCompNum": 99,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/dmplus-copia-128x99.png",
@@ -572,7 +572,7 @@
           "text3": "<a href=\"https://www.facebook.com/DMplussv\" target=\"_blank\" class=\"text-danger\">@DMplussv</a>",
           "text4": "<a href=\"mailto:info@dmplussv.com\" class=\"text-danger\">info@dmplusv.com</a><a href=\"mailto:info@youmarketingsite.com\"><br></a>",
           "text5": "<li>Asesoría Comercial.</li><li>Sitios web y App´s.</li><li>Administración de redes sociales.</li><li>Diseño gráfico empresarial.</li><li>Radio, TV y Tiendas Online.</li><li>Email Institucionales.</li>",
-          "text6": "<b>Contactos</b><br>Internacional: +1 (747) 210-0601&nbsp;<br>Contactos de servicio: +503 78632899<br><br><font color=\"#41a85f\" face=\"Montserrat, sans-serif\" style=\"font-weight: bold;\"><span style=\"font-size: 16px; letter-spacing: -1px;\">Enlaces</span></font><br><a href=\"https://mail.zoho.com/portal/DMplus \" target=\"_blank\" class=\"text-info\">Iniciar sesión.</a><br><a href=\"Solicitudpcsd.html\" class=\"text-info\">Realizar cotización</a>.<br><br><b>Soporte: &nbsp;</b>support@dmplussv.com",
+          "text6": "<b>Contactos</b><br>Internacional: +1 (747) 210-0601&nbsp;<br>Contactos de servicio: +503 78632899<br><br><font color=\"#41a85f\" face=\"Montserrat, sans-serif\" style=\"font-weight: bold;\"><span style=\"font-size: 16px; letter-spacing: -1px;\">Enlaces</span></font><br><a href=\"https://mail.zoho.com/portal/DMplus \" target=\"_blank\" class=\"text-info\">Iniciar sesión.</a><br><a href=\"Solicitudpcsd.html\" class=\"text-info\">Realizar cotización</a>.<br><a href=\"Payment.html\" class=\"text-info\">Pago de Servicios DM Plus</a><br><br><b>Soporte: &nbsp;</b>support@dmplussv.com",
           "form": {
             "title": "MESSAGE",
             "action": "info@dmplussv.com",
@@ -649,7 +649,7 @@
       "settings": {
         "meta_descr": "Tu mejor opción en Marketing digital, hacemos crecer tu empresa y tener la mejor imagen en Internet, ademas de brindarte soporte para tus clientes y miembros dentro tu empresa, organización e institución.",
         "title": "Acerca de Nosotros",
-        "order": 8
+        "order": 10
       },
       "components": [
         {
@@ -939,7 +939,7 @@
           "text3": "<a href=\"https://www.facebook.com/DMplussv\" target=\"_blank\" class=\"text-danger\">@DMplussv</a>",
           "text4": "<a href=\"mailto:info@dmplussv.com\" class=\"text-danger\">info@dmplusv.com</a><a href=\"mailto:info@youmarketingsite.com\"><br></a>",
           "text5": "<li>Asesoría Comercial.</li><li>Sitios web y App´s.</li><li>Administración de redes sociales.</li><li>Diseño gráfico empresarial.</li><li>Radio, TV y Tiendas Online.</li><li>Email Institucionales.</li>",
-          "text6": "<b>Contactos</b><br>Internacional: +1 (747) 210-0601&nbsp;<br>Contactos de servicio: +503 78632899<br><br><font color=\"#41a85f\" face=\"Montserrat, sans-serif\" style=\"font-weight: bold;\"><span style=\"font-size: 16px; letter-spacing: -1px;\">Enlaces</span></font><br><a href=\"https://mail.zoho.com/portal/DMplus \" target=\"_blank\" class=\"text-info\">Iniciar sesión.</a><br><a href=\"Solicitudpcsd.html\" class=\"text-info\">Realizar cotización</a>.<br><br><b>Soporte: &nbsp;</b>support@dmplussv.com",
+          "text6": "<b>Contactos</b><br>Internacional: +1 (747) 210-0601&nbsp;<br>Contactos de servicio: +503 78632899<br><br><font color=\"#41a85f\" face=\"Montserrat, sans-serif\" style=\"font-weight: bold;\"><span style=\"font-size: 16px; letter-spacing: -1px;\">Enlaces</span></font><br><a href=\"https://mail.zoho.com/portal/DMplus \" target=\"_blank\" class=\"text-info\">Iniciar sesión.</a><br><a href=\"Solicitudpcsd.html\" class=\"text-info\">Realizar cotización</a>.<br><a href=\"Payment.html\" class=\"text-info\">Pago de Servicios DM Plus</a><br><br><b>Soporte: &nbsp;</b>support@dmplussv.com",
           "form": {
             "title": "MESSAGE",
             "action": "info@youmarketingsite.com",
@@ -1016,7 +1016,7 @@
       "settings": {
         "meta_descr": "Tu mejor opción en Marketing digital, hacemos crecer tu empresa y tener la mejor imagen en Internet, ademas de brindarte soporte para tus clientes y miembros dentro tu empresa, organización e institución.",
         "title": "Nuestros Servicios",
-        "order": 7
+        "order": 9
       },
       "components": [
         {
@@ -1836,7 +1836,7 @@
           "text3": "<a href=\"https://www.facebook.com/DMplussv\" target=\"_blank\" class=\"text-danger\">@DMplussv</a>",
           "text4": "<a href=\"mailto:info@dmplussv.com\" class=\"text-danger\">info@dmplusv.com</a><a href=\"mailto:info@youmarketingsite.com\"><br></a>",
           "text5": "<li>Asesoría Comercial.</li><li>Sitios web y App´s.</li><li>Administración de redes sociales.</li><li>Diseño gráfico empresarial.</li><li>Radio, TV y Tiendas Online.</li><li>Email Institucionales.</li>",
-          "text6": "<b>Contactos</b><br>Internacional: +1 (747) 210-0601&nbsp;<br>Contactos de servicio: +503 78632899<br><br><font color=\"#41a85f\" face=\"Montserrat, sans-serif\" style=\"font-weight: bold;\"><span style=\"font-size: 16px; letter-spacing: -1px;\">Enlaces</span></font><br><a href=\"https://mail.zoho.com/portal/DMplus \" target=\"_blank\" class=\"text-info\">Iniciar sesión.</a><br><a href=\"Solicitudpcsd.html\" class=\"text-info\">Realizar cotización</a>.<br><br><b>Soporte: &nbsp;</b>support@dmplussv.com",
+          "text6": "<b>Contactos</b><br>Internacional: +1 (747) 210-0601&nbsp;<br>Contactos de servicio: +503 78632899<br><br><font color=\"#41a85f\" face=\"Montserrat, sans-serif\" style=\"font-weight: bold;\"><span style=\"font-size: 16px; letter-spacing: -1px;\">Enlaces</span></font><br><a href=\"https://mail.zoho.com/portal/DMplus \" target=\"_blank\" class=\"text-info\">Iniciar sesión.</a><br><a href=\"Solicitudpcsd.html\" class=\"text-info\">Realizar cotización</a>.<br><a href=\"Payment.html\" class=\"text-info\">Pago de Servicios DM Plus</a><br><br><b>Soporte: &nbsp;</b>support@dmplussv.com",
           "form": {
             "title": "MESSAGE",
             "action": "info@youmarketingsite.com",
@@ -1913,7 +1913,7 @@
       "settings": {
         "meta_descr": "Tu mejor opción en Marketing digital, hacemos crecer tu empresa y tener la mejor imagen en Internet, ademas de brindarte soporte para tus clientes y miembros dentro tu empresa, organización e institución.",
         "title": "Solicitud de presentación y cotización de servicios",
-        "order": 6
+        "order": 8
       },
       "components": [
         {
@@ -2218,7 +2218,7 @@
           "text3": "<a href=\"https://www.facebook.com/DMplussv\" target=\"_blank\" class=\"text-danger\">@DMplussv</a>",
           "text4": "<a href=\"mailto:info@dmplussv.com\" class=\"text-danger\">info@dmplusv.com</a><a href=\"mailto:info@youmarketingsite.com\"><br></a>",
           "text5": "<li>Asesoría Comercial.</li><li>Sitios web y App´s.</li><li>Administración de redes sociales.</li><li>Diseño gráfico empresarial.</li><li>Radio, TV y Tiendas Online.</li><li>Email Institucionales.</li>",
-          "text6": "<b>Contactos</b><br>Internacional: +1 (747) 210-0601&nbsp;<br>Contactos de servicio: +503 78632899<br><br><font color=\"#41a85f\" face=\"Montserrat, sans-serif\" style=\"font-weight: bold;\"><span style=\"font-size: 16px; letter-spacing: -1px;\">Enlaces</span></font><br><a href=\"https://mail.zoho.com/portal/DMplus \" target=\"_blank\" class=\"text-info\">Iniciar sesión.</a><br><a href=\"Solicitudpcsd.html\" class=\"text-info\">Realizar cotización</a>.<br><br><b>Soporte: &nbsp;</b>support@dmplussv.com",
+          "text6": "<b>Contactos</b><br>Internacional: +1 (747) 210-0601&nbsp;<br>Contactos de servicio: +503 78632899<br><br><font color=\"#41a85f\" face=\"Montserrat, sans-serif\" style=\"font-weight: bold;\"><span style=\"font-size: 16px; letter-spacing: -1px;\">Enlaces</span></font><br><a href=\"https://mail.zoho.com/portal/DMplus \" target=\"_blank\" class=\"text-info\">Iniciar sesión.</a><br><a href=\"Solicitudpcsd.html\" class=\"text-info\">Realizar cotización</a>.<br><a href=\"Payment.html\" class=\"text-info\">Pago de Servicios DM Plus</a><br><br><b>Soporte: &nbsp;</b>support@dmplussv.com",
           "form": {
             "title": "MESSAGE",
             "action": "info@youmarketingsite.com",
@@ -2295,7 +2295,7 @@
       "settings": {
         "meta_descr": "Tu mejor opción en Marketing digital, hacemos crecer tu empresa y tener la mejor imagen en Internet, ademas de brindarte soporte para tus clientes y miembros dentro tu empresa, organización e institución.",
         "title": "Únete se parte del equipo",
-        "order": 5
+        "order": 7
       },
       "components": [
         {
@@ -2615,7 +2615,7 @@
           "text3": "<a href=\"https://www.facebook.com/DMplussv\" target=\"_blank\" class=\"text-danger\">@DMplussv</a>",
           "text4": "<a href=\"mailto:info@dmplussv.com\" class=\"text-danger\">info@dmplusv.com</a><a href=\"mailto:info@youmarketingsite.com\"><br></a>",
           "text5": "<li>Asesoría Comercial.</li><li>Sitios web y App´s.</li><li>Administración de redes sociales.</li><li>Diseño gráfico empresarial.</li><li>Radio, TV y Tiendas Online.</li><li>Email Institucionales.</li>",
-          "text6": "<b>Contactos</b><br>Internacional: +1 (747) 210-0601&nbsp;<br>Contactos de servicio: +503 78632899<br><br><font color=\"#41a85f\" face=\"Montserrat, sans-serif\" style=\"font-weight: bold;\"><span style=\"font-size: 16px; letter-spacing: -1px;\">Enlaces</span></font><br><a href=\"https://mail.zoho.com/portal/DMplus \" target=\"_blank\" class=\"text-info\">Iniciar sesión.</a><br><a href=\"Solicitudpcsd.html\" class=\"text-info\">Realizar cotización</a>.<br><br><b>Soporte: &nbsp;</b>support@dmplussv.com",
+          "text6": "<b>Contactos</b><br>Internacional: +1 (747) 210-0601&nbsp;<br>Contactos de servicio: +503 78632899<br><br><font color=\"#41a85f\" face=\"Montserrat, sans-serif\" style=\"font-weight: bold;\"><span style=\"font-size: 16px; letter-spacing: -1px;\">Enlaces</span></font><br><a href=\"https://mail.zoho.com/portal/DMplus \" target=\"_blank\" class=\"text-info\">Iniciar sesión.</a><br><a href=\"Solicitudpcsd.html\" class=\"text-info\">Realizar cotización</a>.<br><a href=\"Payment.html\" class=\"text-info\">Pago de Servicios DM Plus</a><br><br><b>Soporte: &nbsp;</b>support@dmplussv.com",
           "form": {
             "title": "MESSAGE",
             "action": "info@youmarketingsite.com",
@@ -2692,7 +2692,7 @@
       "settings": {
         "meta_descr": "Tu mejor opción en Marketing digital, hacemos crecer tu empresa y tener la mejor imagen en Internet, ademas de brindarte soporte para tus clientes y miembros dentro tu empresa, organización e institución.",
         "title": "Contáctenos",
-        "order": 4
+        "order": 6
       },
       "components": [
         {
@@ -2969,7 +2969,7 @@
           "text3": "<a href=\"https://www.facebook.com/DMplussv\" target=\"_blank\" class=\"text-danger\">@DMplussv</a>",
           "text4": "<a href=\"mailto:info@dmplussv.com\" class=\"text-danger\">info@dmplusv.com</a><a href=\"mailto:info@youmarketingsite.com\"><br></a>",
           "text5": "<li>Asesoría Comercial.</li><li>Sitios web y App´s.</li><li>Administración de redes sociales.</li><li>Diseño gráfico empresarial.</li><li>Radio, TV y Tiendas Online.</li><li>Email Institucionales.</li>",
-          "text6": "<b>Contactos</b><br>Internacional: +1 (747) 210-0601&nbsp;<br>Contactos de servicio: +503 78632899<br><br><font color=\"#41a85f\" face=\"Montserrat, sans-serif\" style=\"font-weight: bold;\"><span style=\"font-size: 16px; letter-spacing: -1px;\">Enlaces</span></font><br><a href=\"https://mail.zoho.com/portal/DMplus \" target=\"_blank\" class=\"text-info\">Iniciar sesión.</a><br><a href=\"Solicitudpcsd.html\" class=\"text-info\">Realizar cotización</a>.<br><br><b>Soporte: &nbsp;</b>support@dmplussv.com",
+          "text6": "<b>Contactos</b><br>Internacional: +1 (747) 210-0601&nbsp;<br>Contactos de servicio: +503 78632899<br><br><font color=\"#41a85f\" face=\"Montserrat, sans-serif\" style=\"font-weight: bold;\"><span style=\"font-size: 16px; letter-spacing: -1px;\">Enlaces</span></font><br><a href=\"https://mail.zoho.com/portal/DMplus \" target=\"_blank\" class=\"text-info\">Iniciar sesión.</a><br><a href=\"Solicitudpcsd.html\" class=\"text-info\">Realizar cotización</a>.<br><a href=\"Payment.html\" class=\"text-info\">Pago de Servicios DM Plus</a><br><br><b>Soporte: &nbsp;</b>support@dmplussv.com",
           "form": {
             "title": "MESSAGE",
             "action": "info@youmarketingsite.com",
@@ -3046,7 +3046,7 @@
       "settings": {
         "meta_descr": "Tu mejor opción en Marketing digital, hacemos crecer tu empresa y tener la mejor imagen en Internet, ademas de brindarte soporte para tus clientes y miembros dentro tu empresa, organización e institución.",
         "title": "DEMO Tienda ONLINE",
-        "order": 1
+        "order": 3
       },
       "components": [
         {
@@ -3480,7 +3480,7 @@
           "text3": "<a href=\"https://www.facebook.com/DMplussv\" target=\"_blank\" class=\"text-danger\">@DMplussv</a>",
           "text4": "<a href=\"mailto:info@dmplussv.com\" class=\"text-danger\">info@dmplusv.com</a><a href=\"mailto:info@youmarketingsite.com\"><br></a>",
           "text5": "<li>Asesoría Comercial.</li><li>Sitios web y App´s.</li><li>Administración de redes sociales.</li><li>Diseño gráfico empresarial.</li><li>Radio, TV y Tiendas Online.</li><li>Email Institucionales.</li>",
-          "text6": "<b>Contactos</b><br>Internacional: +1 (747) 210-0601&nbsp;<br>Contactos de servicio: +503 78632899<br><br><font color=\"#41a85f\" face=\"Montserrat, sans-serif\" style=\"font-weight: bold;\"><span style=\"font-size: 16px; letter-spacing: -1px;\">Enlaces</span></font><br><a href=\"https://mail.zoho.com/portal/DMplus \" target=\"_blank\" class=\"text-info\">Iniciar sesión.</a><br><a href=\"Solicitudpcsd.html\" class=\"text-info\">Realizar cotización</a>.<br><br><b>Soporte: &nbsp;</b>support@dmplussv.com",
+          "text6": "<b>Contactos</b><br>Internacional: +1 (747) 210-0601&nbsp;<br>Contactos de servicio: +503 78632899<br><br><font color=\"#41a85f\" face=\"Montserrat, sans-serif\" style=\"font-weight: bold;\"><span style=\"font-size: 16px; letter-spacing: -1px;\">Enlaces</span></font><br><a href=\"https://mail.zoho.com/portal/DMplus \" target=\"_blank\" class=\"text-info\">Iniciar sesión.</a><br><a href=\"Solicitudpcsd.html\" class=\"text-info\">Realizar cotización</a>.<br><a href=\"Payment.html\" class=\"text-info\">Pago de Servicios DM Plus</a><br><br><b>Soporte: &nbsp;</b>support@dmplussv.com",
           "form": {
             "title": "MESSAGE",
             "action": "info@youmarketingsite.com",
@@ -3557,7 +3557,7 @@
       "settings": {
         "meta_descr": "Tu mejor opción en Marketing digital, hacemos crecer tu empresa y tener la mejor imagen en Internet, ademas de brindarte soporte para tus clientes y miembros dentro tu empresa, organización e institución.",
         "title": "Términos y condiciones",
-        "order": 2
+        "order": 4
       },
       "components": [
         {
@@ -3789,7 +3789,7 @@
           "text3": "<a href=\"https://www.facebook.com/DMplussv\" target=\"_blank\" class=\"text-danger\">@DMplussv</a>",
           "text4": "<a href=\"mailto:info@dmplussv.com\" class=\"text-danger\">info@dmplusv.com</a><a href=\"mailto:info@youmarketingsite.com\"><br></a>",
           "text5": "<li>Asesoría Comercial.</li><li>Sitios web y App´s.</li><li>Administración de redes sociales.</li><li>Diseño gráfico empresarial.</li><li>Radio, TV y Tiendas Online.</li><li>Email Institucionales.</li>",
-          "text6": "<b>Contactos</b><br>Internacional: +1 (747) 210-0601&nbsp;<br>Contactos de servicio: +503 78632899<br><br><font color=\"#41a85f\" face=\"Montserrat, sans-serif\" style=\"font-weight: bold;\"><span style=\"font-size: 16px; letter-spacing: -1px;\">Enlaces</span></font><br><a href=\"https://mail.zoho.com/portal/DMplus \" target=\"_blank\" class=\"text-info\">Iniciar sesión.</a><br><a href=\"Solicitudpcsd.html\" class=\"text-info\">Realizar cotización</a>.<br><br><b>Soporte: &nbsp;</b>support@dmplussv.com",
+          "text6": "<b>Contactos</b><br>Internacional: +1 (747) 210-0601&nbsp;<br>Contactos de servicio: +503 78632899<br><br><font color=\"#41a85f\" face=\"Montserrat, sans-serif\" style=\"font-weight: bold;\"><span style=\"font-size: 16px; letter-spacing: -1px;\">Enlaces</span></font><br><a href=\"https://mail.zoho.com/portal/DMplus \" target=\"_blank\" class=\"text-info\">Iniciar sesión.</a><br><a href=\"Solicitudpcsd.html\" class=\"text-info\">Realizar cotización</a>.<br><a href=\"Payment.html\" class=\"text-info\">Pago de Servicios DM Plus</a><br><br><b>Soporte: &nbsp;</b>support@dmplussv.com",
           "form": {
             "title": "MESSAGE",
             "action": "info@youmarketingsite.com",
@@ -3866,7 +3866,7 @@
       "settings": {
         "meta_descr": "Tu mejor opción en Marketing digital, hacemos crecer tu empresa y tener la mejor imagen en Internet, ademas de brindarte soporte para tus clientes y miembros dentro tu empresa, organización e institución.",
         "title": "Política de privacidad",
-        "order": 3
+        "order": 5
       },
       "components": [
         {
@@ -4098,7 +4098,7 @@
           "text3": "<a href=\"https://www.facebook.com/DMplussv\" target=\"_blank\" class=\"text-danger\">@DMplussv</a>",
           "text4": "<a href=\"mailto:info@dmplussv.com\" class=\"text-danger\">info@dmplusv.com</a><a href=\"mailto:info@youmarketingsite.com\"><br></a>",
           "text5": "<li>Asesoría Comercial.</li><li>Sitios web y App´s.</li><li>Administración de redes sociales.</li><li>Diseño gráfico empresarial.</li><li>Radio, TV y Tiendas Online.</li><li>Email Institucionales.</li>",
-          "text6": "<b>Contactos</b><br>Internacional: +1 (747) 210-0601&nbsp;<br>Contactos de servicio: +503 78632899<br><br><font color=\"#41a85f\" face=\"Montserrat, sans-serif\" style=\"font-weight: bold;\"><span style=\"font-size: 16px; letter-spacing: -1px;\">Enlaces</span></font><br><a href=\"https://mail.zoho.com/portal/DMplus \" target=\"_blank\" class=\"text-info\">Iniciar sesión.</a><br><a href=\"Solicitudpcsd.html\" class=\"text-info\">Realizar cotización</a>.<br><br><b>Soporte: &nbsp;</b>support@dmplussv.com",
+          "text6": "<b>Contactos</b><br>Internacional: +1 (747) 210-0601&nbsp;<br>Contactos de servicio: +503 78632899<br><br><font color=\"#41a85f\" face=\"Montserrat, sans-serif\" style=\"font-weight: bold;\"><span style=\"font-size: 16px; letter-spacing: -1px;\">Enlaces</span></font><br><a href=\"https://mail.zoho.com/portal/DMplus \" target=\"_blank\" class=\"text-info\">Iniciar sesión.</a><br><a href=\"Solicitudpcsd.html\" class=\"text-info\">Realizar cotización</a>.<br><a href=\"Payment.html\" class=\"text-info\">Pago de Servicios DM Plus</a><br><br><b>Soporte: &nbsp;</b>support@dmplussv.com",
           "form": {
             "title": "MESSAGE",
             "action": "info@youmarketingsite.com",
@@ -4168,6 +4168,731 @@
             }
           },
           "_anchor": "contacts3-1q"
+        }
+      ]
+    },
+    "Payment.html": {
+      "settings": {
+        "meta_descr": "Tu mejor opción en Marketing digital, hacemos crecer tu empresa y tener la mejor imagen en Internet, ademas de brindarte soporte para tus clientes y miembros dentro tu empresa, organización e institución.",
+        "title": "Payment",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Inicio</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Acercadenosotros.html\">Acerca de nosotros</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nuestrosservicios.html\">Nuestros Servicios</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Únete.html\">Empleo</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contáctenos.html\">Contáctenos</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"Solicitudpcsd.html\">Realizar Cotización<br>¡Nos adaptamos a tu presupuesto!</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#00b246!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dmplus-2-281x128.png",
+              "height": 128,
+              "alt": "DM Plus El Salvador",
+              "link": "index.html",
+              "title": "DM Plus El Salvador"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-2f"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2020 DM Plus - <a href=\"Términosycondiciones.html\">Términos y condiciones</a> - <a href=\"Políticadeprivacidad.html\">Política de privacidad</a><br>Logo WOMPI, Banco Agrícola, Visa y MasterCard son propiedad de las entidades que representan.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-2g"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            },
+            ".lead": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "5",
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1156.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.7"
+          },
+          "title": "Bienvenido",
+          "text": "<p>Gracias por ser parte de la familia de clientes de DM Plus a<span style=\"font-size: 1.07rem;\">&nbsp;continuación puedes pagar tu servcio, ¡Muchas Gracias!, para mayor información y ayuda escribenos a: <a href=\"mailto:support@dmplussv.com\">support@dmplussv.com</a></span></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2l"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/dm-jr-600x600.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/dm-senior-600x600.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/dm-master-600x600.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Servicios Web - DM JR",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Por favor al desplegarse el formulario de pago ingrese el monto a pagar asignado por el proveedor de servicio segun su contrato de servicio.",
+          "title2": "Community Manager - DM SENIOR",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Por favor al desplegarse el formulario de pago ingrese el monto a pagar asignado por el proveedor de servicio segun su contrato de servicio.",
+          "title3": "DM MASTER - Full Services",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Por favor al desplegarse el formulario de pago ingrese el monto a pagar asignado por el proveedor de servicio segun su contrato de servicio.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Pagar Ahora</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Pagar Ahora</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Pagar Ahora</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-2m"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#232323",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/dmplus-2-265x121.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "index.html",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "whatsapp",
+              "family": "socicon",
+              "active": true,
+              "size": "25",
+              "color": "#41a85f"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "facebook",
+              "family": "socicon",
+              "active": true,
+              "size": "25",
+              "color": "#2969b0"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "outlook",
+              "family": "socicon",
+              "active": true,
+              "size": "25",
+              "color": "#fac51c"
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 29px; color: rgb(255, 255, 255);\"></span>Enviar</a>",
+          "title1": "Nuestros Servicios",
+          "text1": "<b>DM Plus El Salvador</b><br>Produciendo y diseñando tu marca.",
+          "text2": "<a href=\"https://wa.me/50378632899\" class=\"text-danger\">+503-7863-2899</a>",
+          "text3": "<a href=\"https://www.facebook.com/DMplussv\" target=\"_blank\" class=\"text-danger\">@DMplussv</a>",
+          "text4": "<a href=\"mailto:info@dmplussv.com\" class=\"text-danger\">info@dmplusv.com</a><a href=\"mailto:info@youmarketingsite.com\"><br></a>",
+          "text5": "<li>Asesoría Comercial.</li><li>Sitios web y App´s.</li><li>Administración de redes sociales.</li><li>Diseño gráfico empresarial.</li><li>Radio, TV y Tiendas Online.</li><li>Email Institucionales.</li>",
+          "text6": "<b>Contactos</b><br>Internacional: +1 (747) 210-0601&nbsp;<br>Contactos de servicio: +503 78632899<br><br><font color=\"#41a85f\" face=\"Montserrat, sans-serif\" style=\"font-weight: bold;\"><span style=\"font-size: 16px; letter-spacing: -1px;\">Enlaces</span></font><br><a href=\"https://mail.zoho.com/portal/DMplus \" target=\"_blank\" class=\"text-info\">Iniciar sesión.</a><br><a href=\"Solicitudpcsd.html\" class=\"text-info\">Realizar cotización</a>.<br><a href=\"Payment.html\" class=\"text-info\">Pago de Servicios DM Plus</a><br><br><b>Soporte: &nbsp;</b>support@dmplussv.com",
+          "form": {
+            "title": "MESSAGE",
+            "action": "info@dmplussv.com",
+            "alerts": {
+              "success": "Solicitud Realizada. ¡Gracias!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Nombre*"
+              },
+              "email": {
+                "visible": false,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Numero de contacto*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Tu consulta."
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "H4": {
+              "color": "#41a85f"
+            },
+            "STRONG": {
+              "color": "#41a85f"
+            },
+            "LI": {
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "15px"
+            },
+            "SPAN": {
+              "color": "#41a85f",
+              "font-size": "16px"
+            },
+            ".list-group-text": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            ".list-group-text B": {
+              "color": "#41a85f",
+              "font-size": "14px"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            "B": {
+              "color": "#41a85f",
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "contacts3-2h"
+        }
+      ]
+    },
+    "Thanksforyourpayment.html": {
+      "settings": {
+        "meta_descr": "Tu mejor opción en Marketing digital, hacemos crecer tu empresa y tener la mejor imagen en Internet, ademas de brindarte soporte para tus clientes y miembros dentro tu empresa, organización e institución.",
+        "title": "Thanks for your payment",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Inicio</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Acercadenosotros.html\">Acerca de nosotros</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nuestrosservicios.html\">Nuestros Servicios</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Únete.html\">Empleo</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contáctenos.html\">Contáctenos</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"Solicitudpcsd.html\">Realizar Cotización<br>¡Nos adaptamos a tu presupuesto!</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#00b246!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dmplus-2-281x128.png",
+              "height": 128,
+              "alt": "DM Plus El Salvador",
+              "link": "index.html",
+              "title": "DM Plus El Salvador"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-2i"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2020 DM Plus - <a href=\"Términosycondiciones.html\">Términos y condiciones</a> - <a href=\"Políticadeprivacidad.html\">Política de privacidad</a><br>Logo WOMPI, Banco Agrícola, Visa y MasterCard son propiedad de las entidades que representan.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-2j"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.3
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/check-1400x413.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Gracias por tu transacción",
+          "text": "Para mayor información y detalles sobre tus servicio o ayuda sobre el pago realizado escribenos a: support@dmplussv.com",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Thanksforyourpayment.html\" data-toolbar=\"-mbrBtnMove\">Regresar al Inicio</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-2q",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "32px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#232323",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/dmplus-2-265x121.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "index.html",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "whatsapp",
+              "family": "socicon",
+              "active": true,
+              "size": "25",
+              "color": "#41a85f"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "facebook",
+              "family": "socicon",
+              "active": true,
+              "size": "25",
+              "color": "#2969b0"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "outlook",
+              "family": "socicon",
+              "active": true,
+              "size": "25",
+              "color": "#fac51c"
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 29px; color: rgb(255, 255, 255);\"></span>Enviar</a>",
+          "title1": "Nuestros Servicios",
+          "text1": "<b>DM Plus El Salvador</b><br>Produciendo y diseñando tu marca.",
+          "text2": "<a href=\"https://wa.me/50378632899\" class=\"text-danger\">+503-7863-2899</a>",
+          "text3": "<a href=\"https://www.facebook.com/DMplussv\" target=\"_blank\" class=\"text-danger\">@DMplussv</a>",
+          "text4": "<a href=\"mailto:info@dmplussv.com\" class=\"text-danger\">info@dmplusv.com</a><a href=\"mailto:info@youmarketingsite.com\"><br></a>",
+          "text5": "<li>Asesoría Comercial.</li><li>Sitios web y App´s.</li><li>Administración de redes sociales.</li><li>Diseño gráfico empresarial.</li><li>Radio, TV y Tiendas Online.</li><li>Email Institucionales.</li>",
+          "text6": "<b>Contactos</b><br>Internacional: +1 (747) 210-0601&nbsp;<br>Contactos de servicio: +503 78632899<br><br><font color=\"#41a85f\" face=\"Montserrat, sans-serif\" style=\"font-weight: bold;\"><span style=\"font-size: 16px; letter-spacing: -1px;\">Enlaces</span></font><br><a href=\"https://mail.zoho.com/portal/DMplus \" target=\"_blank\" class=\"text-info\">Iniciar sesión.</a><br><a href=\"Solicitudpcsd.html\" class=\"text-info\">Realizar cotización</a>.<br><a href=\"Payment.html\" class=\"text-info\">Pago de Servicios DM Plus</a><br><br><b>Soporte: &nbsp;</b>support@dmplussv.com",
+          "form": {
+            "title": "MESSAGE",
+            "action": "info@dmplussv.com",
+            "alerts": {
+              "success": "Solicitud Realizada. ¡Gracias!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Nombre*"
+              },
+              "email": {
+                "visible": false,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Numero de contacto*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Tu consulta."
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "H4": {
+              "color": "#41a85f"
+            },
+            "STRONG": {
+              "color": "#41a85f"
+            },
+            "LI": {
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "15px"
+            },
+            "SPAN": {
+              "color": "#41a85f",
+              "font-size": "16px"
+            },
+            ".list-group-text": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            ".list-group-text B": {
+              "color": "#41a85f",
+              "font-size": "14px"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            },
+            "B": {
+              "color": "#41a85f",
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "contacts3-2k"
         }
       ]
     }
