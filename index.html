@@ -397,5 +397,31 @@
   
   <input name="animation" type="hidden">
   <script async data-id="57101" src="https://cdn.widgetwhats.com/script.min.js"></script>
+  <!-- Load Facebook SDK for JavaScript -->
+      <div id="fb-root"></div>
+      <script>
+        window.fbAsyncInit = function() {
+          FB.init({
+            xfbml            : true,
+            version          : 'v8.0'
+          });
+        };
+
+        (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = 'https://connect.facebook.net/es_LA/sdk/xfbml.customerchat.js';
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));</script>
+
+      <!-- Your Chat Plugin code -->
+      <div class="fb-customerchat"
+        attribution=setup_tool
+        page_id="101050368373106"
+  theme_color="#67b868"
+  logged_in_greeting="Bienvenido ¿como podemos ayudarte?"
+  logged_out_greeting="Bienvenido ¿como podemos ayudarte?">
+      </div>
   </body>
 </html>
