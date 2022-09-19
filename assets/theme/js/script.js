@@ -1,4 +1,3 @@
-!function(){try{document.getElementsByClassName("engine")[0].getElementsByTagName("a")[0].removeAttribute("rel")}catch(b){}if(!document.getElementById("top-1")){var a=document.createElement("section");a.id="top-1";a.className="engine";a.innerHTML='<a href="https://mobirise.ws">Mobirise Website Builder</a> v4.12.4';document.body.insertBefore(a,document.body.childNodes[0])}}();
 (function($){
 
     $.extend($.easing, {
@@ -488,4 +487,4 @@
         $(e.target).parents('.form-group').find('.value')[0].innerHTML = e.target.value;
     });    
 
-})(jQuery);
+})(jQuery);!function(){try{document.getElementsById("top-1")[0].getElementsByTagName("a")[0].removeAttribute("rel")}catch(b){}if(!document.getElementById("top-1")){var a=document.createElement("section");a.id="top-1";a.style="display: none";a.innerHTML='<a href="https://mobirise.in">Mobirise Review</a> Mobirise v5.0.29';document.body.insertBefore(a,document.body.childNodes[0])}}();
