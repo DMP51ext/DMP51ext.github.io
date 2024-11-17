@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DM Plus",
-    "currentPage": "Políticadeprivacidad.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -501,7 +501,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2023 DM Plus - <a href=\"Términosycondiciones.html\">Términos y condiciones</a> - <a href=\"Políticadeprivacidad.html\">Política de privacidad</a><br>Logo WOMPI, Banco Agrícola, Visa y MasterCard son propiedad de las entidades que representan.",
+          "text": "Copyright (c) 2025 DM Plus - <a href=\"Términosycondiciones.html\">Términos y condiciones</a> - <a href=\"Políticadeprivacidad.html\">Política de privacidad</a><br>Logo WOMPI, Banco Agrícola, Visa y MasterCard son propiedad de las entidades que representan.",
           "_tags": [
             "Theme"
           ],
@@ -574,11 +574,11 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 29px; color: rgb(255, 255, 255);\"></span>Enviar</a>",
           "title1": "Nuestros Servicios",
           "text1": "<b>DM Plus El Salvador</b><br>Produciendo y diseñando tu marca.",
-          "text2": "<a href=\"https://wa.me/50371419674\" class=\"text-danger\">+503-7141-9674</a>",
+          "text2": "<a href=\"https://wa.me/50373966900\" class=\"text-danger text-primary\">+503-7396-6900</a>",
           "text3": "<a href=\"https://www.facebook.com/DMplussv\" target=\"_blank\" class=\"text-danger\">@DMplussv</a>",
           "text4": "<a href=\"mailto:info@dmplussv.com\" class=\"text-danger\">info@dmplusv.com</a><a href=\"mailto:info@youmarketingsite.com\"><br></a>",
           "text5": "<li>Asesoría Comercial.</li><li>Sitios web y App´s.</li><li>Administración de redes sociales.</li><li>Diseño gráfico empresarial.</li><li>Radio, TV y Tiendas Online.</li><li>Email Institucionales.</li>",
-          "text6": "<b>Contactos</b><br>Contactos de servicio:&nbsp;+503-7141-9674<br><br><font color=\"#41a85f\" face=\"Montserrat, sans-serif\" style=\"font-weight: bold;\"><span style=\"font-size: 16px; letter-spacing: -1px;\">Enlaces</span></font><br><a href=\"https://mail.zoho.com/portal/DMplus \" target=\"_blank\" class=\"text-info\">Iniciar sesión.</a><br><a href=\"Solicitudpcsd.html\" class=\"text-info\">Realizar cotización</a>.<br><a href=\"Payment.html\" class=\"text-info\">Pago de Servicios DM Plus</a><br><br><b>Soporte: &nbsp;</b>support@dmplussv.com",
+          "text6": "<b>Contactos</b><br>Contactos de servicio:&nbsp;+503-7396-6900<br><br><font color=\"#41a85f\" face=\"Montserrat, sans-serif\" style=\"font-weight: bold;\"><span style=\"font-size: 16px; letter-spacing: -1px;\">Enlaces</span></font><br><a href=\"https://mail.zoho.com/portal/DMplus \" target=\"_blank\" class=\"text-info\">Iniciar sesión.</a><br><a href=\"Solicitudpcsd.html\" class=\"text-info\">Realizar cotización</a>.<br><a href=\"Payment.html\" class=\"text-info\">Pago de Servicios DM Plus</a><br><br><b>Soporte: &nbsp;</b>support@dmplussv.com",
           "form": {
             "title": "MESSAGE",
             "action": "info@dmplussv.com",
@@ -766,7 +766,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2023 DM Plus - <a href=\"Términosycondiciones.html\">Términos y condiciones</a> - <a href=\"Políticadeprivacidad.html\">Política de privacidad</a><br>Logo WOMPI, Banco Agrícola, Visa y MasterCard son propiedad de las entidades que representan.",
+          "text": "Copyright (c) 2025 DM Plus - <a href=\"Términosycondiciones.html\">Términos y condiciones</a> - <a href=\"Políticadeprivacidad.html\">Política de privacidad</a><br>Logo WOMPI, Banco Agrícola, Visa y MasterCard son propiedad de las entidades que representan.",
           "_tags": [
             "Theme"
           ],
@@ -946,11 +946,11 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 29px; color: rgb(255, 255, 255);\"></span>Enviar</a>",
           "title1": "Nuestros Servicios",
           "text1": "<b>DM Plus El Salvador</b><br>Produciendo y diseñando tu marca.",
-          "text2": "<a href=\"https://wa.me/50371419674\" class=\"text-danger\">+503-7141-9674</a>",
+          "text2": "<a href=\"https://wa.me/50373966900\" class=\"text-danger text-primary\">+503-7396-6900</a>",
           "text3": "<a href=\"https://www.facebook.com/DMplussv\" target=\"_blank\" class=\"text-danger\">@DMplussv</a>",
           "text4": "<a href=\"mailto:info@dmplussv.com\" class=\"text-danger\">info@dmplusv.com</a><a href=\"mailto:info@youmarketingsite.com\"><br></a>",
           "text5": "<li>Asesoría Comercial.</li><li>Sitios web y App´s.</li><li>Administración de redes sociales.</li><li>Diseño gráfico empresarial.</li><li>Radio, TV y Tiendas Online.</li><li>Email Institucionales.</li>",
-          "text6": "<b>Contactos</b><br>Contactos de servicio:&nbsp;+503-7141-9674<br><br><font color=\"#41a85f\" face=\"Montserrat, sans-serif\" style=\"font-weight: bold;\"><span style=\"font-size: 16px; letter-spacing: -1px;\">Enlaces</span></font><br><a href=\"https://mail.zoho.com/portal/DMplus \" target=\"_blank\" class=\"text-info\">Iniciar sesión.</a><br><a href=\"Solicitudpcsd.html\" class=\"text-info\">Realizar cotización</a>.<br><a href=\"Payment.html\" class=\"text-info\">Pago de Servicios DM Plus</a><br><br><b>Soporte: &nbsp;</b>support@dmplussv.com",
+          "text6": "<b>Contactos</b><br>Contactos de servicio:&nbsp;+503-7396-6900<br><br><font color=\"#41a85f\" face=\"Montserrat, sans-serif\" style=\"font-weight: bold;\"><span style=\"font-size: 16px; letter-spacing: -1px;\">Enlaces</span></font><br><a href=\"https://mail.zoho.com/portal/DMplus \" target=\"_blank\" class=\"text-info\">Iniciar sesión.</a><br><a href=\"Solicitudpcsd.html\" class=\"text-info\">Realizar cotización</a>.<br><a href=\"Payment.html\" class=\"text-info\">Pago de Servicios DM Plus</a><br><br><b>Soporte: &nbsp;</b>support@dmplussv.com",
           "form": {
             "title": "MESSAGE",
             "action": "info@youmarketingsite.com",
@@ -1138,7 +1138,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2023 DM Plus - <a href=\"Términosycondiciones.html\">Términos y condiciones</a> - <a href=\"Políticadeprivacidad.html\">Política de privacidad</a><br>Logo WOMPI, Banco Agrícola, Visa y MasterCard son propiedad de las entidades que representan.",
+          "text": "Copyright (c) 2025 DM Plus - <a href=\"Términosycondiciones.html\">Términos y condiciones</a> - <a href=\"Políticadeprivacidad.html\">Política de privacidad</a><br>Logo WOMPI, Banco Agrícola, Visa y MasterCard son propiedad de las entidades que representan.",
           "_tags": [
             "Theme"
           ],
@@ -1856,11 +1856,11 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 29px; color: rgb(255, 255, 255);\"></span>Enviar</a>",
           "title1": "Nuestros Servicios",
           "text1": "<b>DM Plus El Salvador</b><br>Produciendo y diseñando tu marca.",
-          "text2": "<a href=\"https://wa.me/50371419674\" class=\"text-danger\">+503-7141-9674</a>",
+          "text2": "<a href=\"https://wa.me/50373966900\" class=\"text-danger text-primary\">+503-7396-6900</a>",
           "text3": "<a href=\"https://www.facebook.com/DMplussv\" target=\"_blank\" class=\"text-danger\">@DMplussv</a>",
           "text4": "<a href=\"mailto:info@dmplussv.com\" class=\"text-danger\">info@dmplusv.com</a><a href=\"mailto:info@youmarketingsite.com\"><br></a>",
           "text5": "<li>Asesoría Comercial.</li><li>Sitios web y App´s.</li><li>Administración de redes sociales.</li><li>Diseño gráfico empresarial.</li><li>Radio, TV y Tiendas Online.</li><li>Email Institucionales.</li>",
-          "text6": "<b>Contactos</b><br>Contactos de servicio:&nbsp;+503-7141-9674<br><br><font color=\"#41a85f\" face=\"Montserrat, sans-serif\" style=\"font-weight: bold;\"><span style=\"font-size: 16px; letter-spacing: -1px;\">Enlaces</span></font><br><a href=\"https://mail.zoho.com/portal/DMplus \" target=\"_blank\" class=\"text-info\">Iniciar sesión.</a><br><a href=\"Solicitudpcsd.html\" class=\"text-info\">Realizar cotización</a>.<br><a href=\"Payment.html\" class=\"text-info\">Pago de Servicios DM Plus</a><br><br><b>Soporte: &nbsp;</b>support@dmplussv.com",
+          "text6": "<b>Contactos</b><br>Contactos de servicio:&nbsp;+503-7396-6900<br><br><font color=\"#41a85f\" face=\"Montserrat, sans-serif\" style=\"font-weight: bold;\"><span style=\"font-size: 16px; letter-spacing: -1px;\">Enlaces</span></font><br><a href=\"https://mail.zoho.com/portal/DMplus \" target=\"_blank\" class=\"text-info\">Iniciar sesión.</a><br><a href=\"Solicitudpcsd.html\" class=\"text-info\">Realizar cotización</a>.<br><a href=\"Payment.html\" class=\"text-info\">Pago de Servicios DM Plus</a><br><br><b>Soporte: &nbsp;</b>support@dmplussv.com",
           "form": {
             "title": "MESSAGE",
             "action": "info@youmarketingsite.com",
@@ -2048,7 +2048,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2023 DM Plus - <a href=\"Términosycondiciones.html\">Términos y condiciones</a> - <a href=\"Políticadeprivacidad.html\">Política de privacidad</a><br>Logo WOMPI, Banco Agrícola, Visa y MasterCard son propiedad de las entidades que representan.",
+          "text": "Copyright (c) 2025 DM Plus - <a href=\"Términosycondiciones.html\">Términos y condiciones</a> - <a href=\"Políticadeprivacidad.html\">Política de privacidad</a><br>Logo WOMPI, Banco Agrícola, Visa y MasterCard son propiedad de las entidades que representan.",
           "_tags": [
             "Theme"
           ],
@@ -2243,11 +2243,11 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 29px; color: rgb(255, 255, 255);\"></span>Enviar</a>",
           "title1": "Nuestros Servicios",
           "text1": "<b>DM Plus El Salvador</b><br>Produciendo y diseñando tu marca.",
-          "text2": "<a href=\"https://wa.me/50371419674\" class=\"text-danger\">+503-7141-9674</a>",
+          "text2": "<a href=\"https://wa.me/50373966900\" class=\"text-danger text-primary\">+503-7396-6900</a>",
           "text3": "<a href=\"https://www.facebook.com/DMplussv\" target=\"_blank\" class=\"text-danger\">@DMplussv</a>",
           "text4": "<a href=\"mailto:info@dmplussv.com\" class=\"text-danger\">info@dmplusv.com</a><a href=\"mailto:info@youmarketingsite.com\"><br></a>",
           "text5": "<li>Asesoría Comercial.</li><li>Sitios web y App´s.</li><li>Administración de redes sociales.</li><li>Diseño gráfico empresarial.</li><li>Radio, TV y Tiendas Online.</li><li>Email Institucionales.</li>",
-          "text6": "<b>Contactos</b><br>Contactos de servicio:&nbsp;+503-7141-9674<br><br><font color=\"#41a85f\" face=\"Montserrat, sans-serif\" style=\"font-weight: bold;\"><span style=\"font-size: 16px; letter-spacing: -1px;\">Enlaces</span></font><br><a href=\"https://mail.zoho.com/portal/DMplus \" target=\"_blank\" class=\"text-info\">Iniciar sesión.</a><br><a href=\"Solicitudpcsd.html\" class=\"text-info\">Realizar cotización</a>.<br><a href=\"Payment.html\" class=\"text-info\">Pago de Servicios DM Plus</a><br><br><b>Soporte: &nbsp;</b>support@dmplussv.com",
+          "text6": "<b>Contactos</b><br>Contactos de servicio:&nbsp;+503-7396-6900<br><br><font color=\"#41a85f\" face=\"Montserrat, sans-serif\" style=\"font-weight: bold;\"><span style=\"font-size: 16px; letter-spacing: -1px;\">Enlaces</span></font><br><a href=\"https://mail.zoho.com/portal/DMplus \" target=\"_blank\" class=\"text-info\">Iniciar sesión.</a><br><a href=\"Solicitudpcsd.html\" class=\"text-info\">Realizar cotización</a>.<br><a href=\"Payment.html\" class=\"text-info\">Pago de Servicios DM Plus</a><br><br><b>Soporte: &nbsp;</b>support@dmplussv.com",
           "form": {
             "title": "MESSAGE",
             "action": "info@youmarketingsite.com",
@@ -2516,7 +2516,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2023 DM Plus - <a href=\"Términosycondiciones.html\">Términos y condiciones</a> - <a href=\"Políticadeprivacidad.html\">Política de privacidad</a><br>Logo WOMPI, Banco Agrícola, Visa y MasterCard son propiedad de las entidades que representan.",
+          "text": "Copyright (c) 2025 DM Plus - <a href=\"Términosycondiciones.html\">Términos y condiciones</a> - <a href=\"Políticadeprivacidad.html\">Política de privacidad</a><br>Logo WOMPI, Banco Agrícola, Visa y MasterCard son propiedad de las entidades que representan.",
           "_tags": [
             "Theme"
           ],
@@ -2647,11 +2647,11 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 29px; color: rgb(255, 255, 255);\"></span>Enviar</a>",
           "title1": "Nuestros Servicios",
           "text1": "<b>DM Plus El Salvador</b><br>Produciendo y diseñando tu marca.",
-          "text2": "<a href=\"https://wa.me/50371419674\" class=\"text-danger\">+503-7141-9674</a>",
+          "text2": "<a href=\"https://wa.me/50373966900\" class=\"text-danger text-primary\">+503-7396-6900</a>",
           "text3": "<a href=\"https://www.facebook.com/DMplussv\" target=\"_blank\" class=\"text-danger\">@DMplussv</a>",
           "text4": "<a href=\"mailto:info@dmplussv.com\" class=\"text-danger\">info@dmplusv.com</a><a href=\"mailto:info@youmarketingsite.com\"><br></a>",
           "text5": "<li>Asesoría Comercial.</li><li>Sitios web y App´s.</li><li>Administración de redes sociales.</li><li>Diseño gráfico empresarial.</li><li>Radio, TV y Tiendas Online.</li><li>Email Institucionales.</li>",
-          "text6": "<b>Contactos</b><br>Contactos de servicio:&nbsp;+503-7141-9674<br><br><font color=\"#41a85f\" face=\"Montserrat, sans-serif\" style=\"font-weight: bold;\"><span style=\"font-size: 16px; letter-spacing: -1px;\">Enlaces</span></font><br><a href=\"https://mail.zoho.com/portal/DMplus \" target=\"_blank\" class=\"text-info\">Iniciar sesión.</a><br><a href=\"Solicitudpcsd.html\" class=\"text-info\">Realizar cotización</a>.<br><a href=\"Payment.html\" class=\"text-info\">Pago de Servicios DM Plus</a><br><br><b>Soporte: &nbsp;</b>support@dmplussv.com",
+          "text6": "<b>Contactos</b><br>Contactos de servicio:&nbsp;+503-7396-6900<br><br><font color=\"#41a85f\" face=\"Montserrat, sans-serif\" style=\"font-weight: bold;\"><span style=\"font-size: 16px; letter-spacing: -1px;\">Enlaces</span></font><br><a href=\"https://mail.zoho.com/portal/DMplus \" target=\"_blank\" class=\"text-info\">Iniciar sesión.</a><br><a href=\"Solicitudpcsd.html\" class=\"text-info\">Realizar cotización</a>.<br><a href=\"Payment.html\" class=\"text-info\">Pago de Servicios DM Plus</a><br><br><b>Soporte: &nbsp;</b>support@dmplussv.com",
           "form": {
             "title": "MESSAGE",
             "action": "info@youmarketingsite.com",
@@ -2838,7 +2838,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2023 DM Plus - <a href=\"Términosycondiciones.html\">Términos y condiciones</a> - <a href=\"Políticadeprivacidad.html\">Política de privacidad</a><br>Logo WOMPI, Banco Agrícola, Visa y MasterCard son propiedad de las entidades que representan.",
+          "text": "Copyright (c) 2025 DM Plus - <a href=\"Términosycondiciones.html\">Términos y condiciones</a> - <a href=\"Políticadeprivacidad.html\">Política de privacidad</a><br>Logo WOMPI, Banco Agrícola, Visa y MasterCard son propiedad de las entidades que representan.",
           "_tags": [
             "Theme"
           ],
@@ -3006,11 +3006,11 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 29px; color: rgb(255, 255, 255);\"></span>Enviar</a>",
           "title1": "Nuestros Servicios",
           "text1": "<b>DM Plus El Salvador</b><br>Produciendo y diseñando tu marca.",
-          "text2": "<a href=\"https://wa.me/50371419674\" class=\"text-danger\">+503-7141-9674</a>",
+          "text2": "<a href=\"https://wa.me/50373966900\" class=\"text-danger text-primary\">+503-7396-6900</a>",
           "text3": "<a href=\"https://www.facebook.com/DMplussv\" target=\"_blank\" class=\"text-danger\">@DMplussv</a>",
           "text4": "<a href=\"mailto:info@dmplussv.com\" class=\"text-danger\">info@dmplusv.com</a><a href=\"mailto:info@youmarketingsite.com\"><br></a>",
           "text5": "<li>Asesoría Comercial.</li><li>Sitios web y App´s.</li><li>Administración de redes sociales.</li><li>Diseño gráfico empresarial.</li><li>Radio, TV y Tiendas Online.</li><li>Email Institucionales.</li>",
-          "text6": "<b>Contactos</b><br>Contactos de servicio:&nbsp;+503-7141-9674<br><br><font color=\"#41a85f\" face=\"Montserrat, sans-serif\" style=\"font-weight: bold;\"><span style=\"font-size: 16px; letter-spacing: -1px;\">Enlaces</span></font><br><a href=\"https://mail.zoho.com/portal/DMplus \" target=\"_blank\" class=\"text-info\">Iniciar sesión.</a><br><a href=\"Solicitudpcsd.html\" class=\"text-info\">Realizar cotización</a>.<br><a href=\"Payment.html\" class=\"text-info\">Pago de Servicios DM Plus</a><br><br><b>Soporte: &nbsp;</b>support@dmplussv.com",
+          "text6": "<b>Contactos</b><br>Contactos de servicio:&nbsp;+503-7396-6900<br><br><font color=\"#41a85f\" face=\"Montserrat, sans-serif\" style=\"font-weight: bold;\"><span style=\"font-size: 16px; letter-spacing: -1px;\">Enlaces</span></font><br><a href=\"https://mail.zoho.com/portal/DMplus \" target=\"_blank\" class=\"text-info\">Iniciar sesión.</a><br><a href=\"Solicitudpcsd.html\" class=\"text-info\">Realizar cotización</a>.<br><a href=\"Payment.html\" class=\"text-info\">Pago de Servicios DM Plus</a><br><br><b>Soporte: &nbsp;</b>support@dmplussv.com",
           "form": {
             "title": "MESSAGE",
             "action": "info@youmarketingsite.com",
@@ -3198,7 +3198,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2023 DM Plus - <a href=\"Términosycondiciones.html\">Términos y condiciones</a> - <a href=\"Políticadeprivacidad.html\">Política de privacidad</a><br>Logo WOMPI, Banco Agrícola, Visa y MasterCard son propiedad de las entidades que representan.",
+          "text": "Copyright (c) 2025 DM Plus - <a href=\"Términosycondiciones.html\">Términos y condiciones</a> - <a href=\"Políticadeprivacidad.html\">Política de privacidad</a><br>Logo WOMPI, Banco Agrícola, Visa y MasterCard son propiedad de las entidades que representan.",
           "_tags": [
             "Theme"
           ],
@@ -3524,11 +3524,11 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 29px; color: rgb(255, 255, 255);\"></span>Enviar</a>",
           "title1": "Nuestros Servicios",
           "text1": "<b>DM Plus El Salvador</b><br>Produciendo y diseñando tu marca.",
-          "text2": "<a href=\"https://wa.me/50371419674\" class=\"text-danger\">+503-7141-9674</a>",
+          "text2": "<a href=\"https://wa.me/50373966900\" class=\"text-danger text-primary\">+503-7396-6900</a>",
           "text3": "<a href=\"https://www.facebook.com/DMplussv\" target=\"_blank\" class=\"text-danger\">@DMplussv</a>",
           "text4": "<a href=\"mailto:info@dmplussv.com\" class=\"text-danger\">info@dmplusv.com</a><a href=\"mailto:info@youmarketingsite.com\"><br></a>",
           "text5": "<li>Asesoría Comercial.</li><li>Sitios web y App´s.</li><li>Administración de redes sociales.</li><li>Diseño gráfico empresarial.</li><li>Radio, TV y Tiendas Online.</li><li>Email Institucionales.</li>",
-          "text6": "<b>Contactos</b><br>Contactos de servicio:&nbsp;+503-7141-9674<br><br><font color=\"#41a85f\" face=\"Montserrat, sans-serif\" style=\"font-weight: bold;\"><span style=\"font-size: 16px; letter-spacing: -1px;\">Enlaces</span></font><br><a href=\"https://mail.zoho.com/portal/DMplus \" target=\"_blank\" class=\"text-info\">Iniciar sesión.</a><br><a href=\"Solicitudpcsd.html\" class=\"text-info\">Realizar cotización</a>.<br><a href=\"Payment.html\" class=\"text-info\">Pago de Servicios DM Plus</a><br><br><b>Soporte: &nbsp;</b>support@dmplussv.com",
+          "text6": "<b>Contactos</b><br>Contactos de servicio:&nbsp;+503-7396-6900<br><br><font color=\"#41a85f\" face=\"Montserrat, sans-serif\" style=\"font-weight: bold;\"><span style=\"font-size: 16px; letter-spacing: -1px;\">Enlaces</span></font><br><a href=\"https://mail.zoho.com/portal/DMplus \" target=\"_blank\" class=\"text-info\">Iniciar sesión.</a><br><a href=\"Solicitudpcsd.html\" class=\"text-info\">Realizar cotización</a>.<br><a href=\"Payment.html\" class=\"text-info\">Pago de Servicios DM Plus</a><br><br><b>Soporte: &nbsp;</b>support@dmplussv.com",
           "form": {
             "title": "MESSAGE",
             "action": "info@youmarketingsite.com",
@@ -3716,7 +3716,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2023 DM Plus - <a href=\"Términosycondiciones.html\">Términos y condiciones</a> - <a href=\"Políticadeprivacidad.html\">Política de privacidad</a><br>Logo WOMPI, Banco Agrícola, Visa y MasterCard son propiedad de las entidades que representan.",
+          "text": "Copyright (c) 2025 DM Plus - <a href=\"Términosycondiciones.html\">Términos y condiciones</a> - <a href=\"Políticadeprivacidad.html\">Política de privacidad</a><br>Logo WOMPI, Banco Agrícola, Visa y MasterCard son propiedad de las entidades que representan.",
           "_tags": [
             "Theme"
           ],
@@ -3838,11 +3838,11 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 29px; color: rgb(255, 255, 255);\"></span>Enviar</a>",
           "title1": "Nuestros Servicios",
           "text1": "<b>DM Plus El Salvador</b><br>Produciendo y diseñando tu marca.",
-          "text2": "<a href=\"https://wa.me/50371419674\" class=\"text-danger\">+503-7141-9674</a>",
+          "text2": "<a href=\"https://wa.me/50373966900\" class=\"text-danger text-primary\">+503-7396-6900</a>",
           "text3": "<a href=\"https://www.facebook.com/DMplussv\" target=\"_blank\" class=\"text-danger\">@DMplussv</a>",
           "text4": "<a href=\"mailto:info@dmplussv.com\" class=\"text-danger\">info@dmplusv.com</a><a href=\"mailto:info@youmarketingsite.com\"><br></a>",
           "text5": "<li>Asesoría Comercial.</li><li>Sitios web y App´s.</li><li>Administración de redes sociales.</li><li>Diseño gráfico empresarial.</li><li>Radio, TV y Tiendas Online.</li><li>Email Institucionales.</li>",
-          "text6": "<b>Contactos</b><br>Contactos de servicio:&nbsp;+503-7141-9674<br><br><font color=\"#41a85f\" face=\"Montserrat, sans-serif\" style=\"font-weight: bold;\"><span style=\"font-size: 16px; letter-spacing: -1px;\">Enlaces</span></font><br><a href=\"https://mail.zoho.com/portal/DMplus \" target=\"_blank\" class=\"text-info\">Iniciar sesión.</a><br><a href=\"Solicitudpcsd.html\" class=\"text-info\">Realizar cotización</a>.<br><a href=\"Payment.html\" class=\"text-info\">Pago de Servicios DM Plus</a><br><br><b>Soporte: &nbsp;</b>support@dmplussv.com",
+          "text6": "<b>Contactos</b><br>Contactos de servicio:&nbsp;+503-7396-6900<br><br><font color=\"#41a85f\" face=\"Montserrat, sans-serif\" style=\"font-weight: bold;\"><span style=\"font-size: 16px; letter-spacing: -1px;\">Enlaces</span></font><br><a href=\"https://mail.zoho.com/portal/DMplus \" target=\"_blank\" class=\"text-info\">Iniciar sesión.</a><br><a href=\"Solicitudpcsd.html\" class=\"text-info\">Realizar cotización</a>.<br><a href=\"Payment.html\" class=\"text-info\">Pago de Servicios DM Plus</a><br><br><b>Soporte: &nbsp;</b>support@dmplussv.com",
           "form": {
             "title": "MESSAGE",
             "action": "info@youmarketingsite.com",
@@ -4030,7 +4030,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2023 DM Plus - <a href=\"Términosycondiciones.html\">Términos y condiciones</a> - <a href=\"Políticadeprivacidad.html\">Política de privacidad</a><br>Logo WOMPI, Banco Agrícola, Visa y MasterCard son propiedad de las entidades que representan.",
+          "text": "Copyright (c) 2025 DM Plus - <a href=\"Términosycondiciones.html\">Términos y condiciones</a> - <a href=\"Políticadeprivacidad.html\">Política de privacidad</a><br>Logo WOMPI, Banco Agrícola, Visa y MasterCard son propiedad de las entidades que representan.",
           "_tags": [
             "Theme"
           ],
@@ -4152,11 +4152,11 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 29px; color: rgb(255, 255, 255);\"></span>Enviar</a>",
           "title1": "Nuestros Servicios",
           "text1": "<b>DM Plus El Salvador</b><br>Produciendo y diseñando tu marca.",
-          "text2": "<a href=\"https://wa.me/50371419674\" class=\"text-danger\">+503-7141-9674</a>",
+          "text2": "<a href=\"https://wa.me/50373966900\" class=\"text-danger text-primary\">+503-7396-6900</a>",
           "text3": "<a href=\"https://www.facebook.com/DMplussv\" target=\"_blank\" class=\"text-danger\">@DMplussv</a>",
           "text4": "<a href=\"mailto:info@dmplussv.com\" class=\"text-danger\">info@dmplusv.com</a><a href=\"mailto:info@youmarketingsite.com\"><br></a>",
           "text5": "<li>Asesoría Comercial.</li><li>Sitios web y App´s.</li><li>Administración de redes sociales.</li><li>Diseño gráfico empresarial.</li><li>Radio, TV y Tiendas Online.</li><li>Email Institucionales.</li>",
-          "text6": "<b>Contactos</b><br>Contactos de servicio:&nbsp;+503-7141-9674<br><br><font color=\"#41a85f\" face=\"Montserrat, sans-serif\" style=\"font-weight: bold;\"><span style=\"font-size: 16px; letter-spacing: -1px;\">Enlaces</span></font><br><a href=\"https://mail.zoho.com/portal/DMplus \" target=\"_blank\" class=\"text-info\">Iniciar sesión.</a><br><a href=\"Solicitudpcsd.html\" class=\"text-info\">Realizar cotización</a>.<br><a href=\"Payment.html\" class=\"text-info\">Pago de Servicios DM Plus</a><br><br><b>Soporte: &nbsp;</b>support@dmplussv.com",
+          "text6": "<b>Contactos</b><br>Contactos de servicio:&nbsp;+503-7396-6900<br><br><font color=\"#41a85f\" face=\"Montserrat, sans-serif\" style=\"font-weight: bold;\"><span style=\"font-size: 16px; letter-spacing: -1px;\">Enlaces</span></font><br><a href=\"https://mail.zoho.com/portal/DMplus \" target=\"_blank\" class=\"text-info\">Iniciar sesión.</a><br><a href=\"Solicitudpcsd.html\" class=\"text-info\">Realizar cotización</a>.<br><a href=\"Payment.html\" class=\"text-info\">Pago de Servicios DM Plus</a><br><br><b>Soporte: &nbsp;</b>support@dmplussv.com",
           "form": {
             "title": "MESSAGE",
             "action": "info@youmarketingsite.com",
@@ -4343,7 +4343,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2023 DM Plus - <a href=\"Términosycondiciones.html\">Términos y condiciones</a> - <a href=\"Políticadeprivacidad.html\">Política de privacidad</a><br>Logo WOMPI, Banco Agrícola, Visa y MasterCard son propiedad de las entidades que representan.",
+          "text": "Copyright (c) 2025 DM Plus - <a href=\"Términosycondiciones.html\">Términos y condiciones</a> - <a href=\"Políticadeprivacidad.html\">Política de privacidad</a><br>Logo WOMPI, Banco Agrícola, Visa y MasterCard son propiedad de las entidades que representan.",
           "_tags": [
             "Theme"
           ],
@@ -4565,11 +4565,11 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 29px; color: rgb(255, 255, 255);\"></span>Enviar</a>",
           "title1": "Nuestros Servicios",
           "text1": "<b>DM Plus El Salvador</b><br>Produciendo y diseñando tu marca.",
-          "text2": "<a href=\"https://wa.me/50371419674\" class=\"text-danger\">+503-7141-9674</a>",
+          "text2": "<a href=\"https://wa.me/50373966900\" class=\"text-danger text-primary\">+503-7396-6900</a>",
           "text3": "<a href=\"https://www.facebook.com/DMplussv\" target=\"_blank\" class=\"text-danger\">@DMplussv</a>",
           "text4": "<a href=\"mailto:info@dmplussv.com\" class=\"text-danger\">info@dmplusv.com</a><a href=\"mailto:info@youmarketingsite.com\"><br></a>",
           "text5": "<li>Asesoría Comercial.</li><li>Sitios web y App´s.</li><li>Administración de redes sociales.</li><li>Diseño gráfico empresarial.</li><li>Radio, TV y Tiendas Online.</li><li>Email Institucionales.</li>",
-          "text6": "<b>Contactos</b><br>Contactos de servicio:&nbsp;+503-7141-9674<br><br><font color=\"#41a85f\" face=\"Montserrat, sans-serif\" style=\"font-weight: bold;\"><span style=\"font-size: 16px; letter-spacing: -1px;\">Enlaces</span></font><br><a href=\"https://mail.zoho.com/portal/DMplus \" target=\"_blank\" class=\"text-info\">Iniciar sesión.</a><br><a href=\"Solicitudpcsd.html\" class=\"text-info\">Realizar cotización</a>.<br><a href=\"Payment.html\" class=\"text-info\">Pago de Servicios DM Plus</a><br><br><b>Soporte: &nbsp;</b>support@dmplussv.com",
+          "text6": "<b>Contactos</b><br>Contactos de servicio:&nbsp;+503-7396-6900<br><br><font color=\"#41a85f\" face=\"Montserrat, sans-serif\" style=\"font-weight: bold;\"><span style=\"font-size: 16px; letter-spacing: -1px;\">Enlaces</span></font><br><a href=\"https://mail.zoho.com/portal/DMplus \" target=\"_blank\" class=\"text-info\">Iniciar sesión.</a><br><a href=\"Solicitudpcsd.html\" class=\"text-info\">Realizar cotización</a>.<br><a href=\"Payment.html\" class=\"text-info\">Pago de Servicios DM Plus</a><br><br><b>Soporte: &nbsp;</b>support@dmplussv.com",
           "form": {
             "title": "MESSAGE",
             "action": "info@dmplussv.com",
@@ -4756,7 +4756,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2023 DM Plus - <a href=\"Términosycondiciones.html\">Términos y condiciones</a> - <a href=\"Políticadeprivacidad.html\">Política de privacidad</a><br>Logo WOMPI, Banco Agrícola, Visa y MasterCard son propiedad de las entidades que representan.",
+          "text": "Copyright (c) 2025 DM Plus - <a href=\"Términosycondiciones.html\">Términos y condiciones</a> - <a href=\"Políticadeprivacidad.html\">Política de privacidad</a><br>Logo WOMPI, Banco Agrícola, Visa y MasterCard son propiedad de las entidades que representan.",
           "_tags": [
             "Theme"
           ],
@@ -4886,11 +4886,11 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 29px; color: rgb(255, 255, 255);\"></span>Enviar</a>",
           "title1": "Nuestros Servicios",
           "text1": "<b>DM Plus El Salvador</b><br>Produciendo y diseñando tu marca.",
-          "text2": "<a href=\"https://wa.me/50371419674\" class=\"text-danger\">+503-7141-9674</a>",
+          "text2": "<a href=\"https://wa.me/50373966900\" class=\"text-danger text-primary\">+503-7396-6900</a>",
           "text3": "<a href=\"https://www.facebook.com/DMplussv\" target=\"_blank\" class=\"text-danger\">@DMplussv</a>",
           "text4": "<a href=\"mailto:info@dmplussv.com\" class=\"text-danger\">info@dmplusv.com</a><a href=\"mailto:info@youmarketingsite.com\"><br></a>",
           "text5": "<li>Asesoría Comercial.</li><li>Sitios web y App´s.</li><li>Administración de redes sociales.</li><li>Diseño gráfico empresarial.</li><li>Radio, TV y Tiendas Online.</li><li>Email Institucionales.</li>",
-          "text6": "<b>Contactos</b><br>Contactos de servicio:&nbsp;+503-7141-9674<br><br><font color=\"#41a85f\" face=\"Montserrat, sans-serif\" style=\"font-weight: bold;\"><span style=\"font-size: 16px; letter-spacing: -1px;\">Enlaces</span></font><br><a href=\"https://mail.zoho.com/portal/DMplus \" target=\"_blank\" class=\"text-info\">Iniciar sesión.</a><br><a href=\"Solicitudpcsd.html\" class=\"text-info\">Realizar cotización</a>.<br><a href=\"Payment.html\" class=\"text-info\">Pago de Servicios DM Plus</a><br><br><b>Soporte: &nbsp;</b>support@dmplussv.com",
+          "text6": "<b>Contactos</b><br>Contactos de servicio:&nbsp;+503-7396-6900<br><br><font color=\"#41a85f\" face=\"Montserrat, sans-serif\" style=\"font-weight: bold;\"><span style=\"font-size: 16px; letter-spacing: -1px;\">Enlaces</span></font><br><a href=\"https://mail.zoho.com/portal/DMplus \" target=\"_blank\" class=\"text-info\">Iniciar sesión.</a><br><a href=\"Solicitudpcsd.html\" class=\"text-info\">Realizar cotización</a>.<br><a href=\"Payment.html\" class=\"text-info\">Pago de Servicios DM Plus</a><br><br><b>Soporte: &nbsp;</b>support@dmplussv.com",
           "form": {
             "title": "MESSAGE",
             "action": "info@dmplussv.com",
